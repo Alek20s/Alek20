@@ -1,6 +1,5 @@
 <h3>  I am Alexei</h3> 
-<h3> I'm from a strong academick backgrounds.</h3>
-<h3>I'm a former physicist. Recently I obtained a master degree in physics from University of York</h3>
+<h3> I'm from a strong academick backgrounds.I'm a former physicist. <br>Recently I obtained a master degree in physics from University of York</h3>
 <h3>As a physicist as I am extremally good at Math, Statistics, Data Analysis, Coding. </h3>
 <h3>As a professional I have the best qualities: I'm hardworking, enthusiastic, creative, logical approach, patient</h3>
 <h3>Since university I was doing voluntary job, was working as a Data Scientist/Analyst.<br>I continuesly improve skills and knowledge on my own. I already know 10 programming languages.</h3>
