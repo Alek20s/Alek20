@@ -8,12 +8,8 @@
 <h4> During digital bootcam "DATA TECHNICIAN" <br>I had an unique opportunity to obtained and refresh many skills: . </h4>
 <h4>Data Structure, MySQL, Tableau, Power BI, Programming Language R, AZURE </h4>
 <h3> 7 Projects in Data:</h3>
-<h5>Project 1 - Excel <br>Project 2 - MySQL<br>Project 3 - R + Power BI  </h5>
+<h4>Project 1 - Excel <br>Project 2 - MySQL<br>Project 3 - R + Power BI<br>Project 4 - Pandas, Python<br><br>Project 5 - Regression Analysis <br>Project 6 - Manupilation Big Data  </h4>
 
-
-<h5>Project 4 - Pandas, Python </h5>
-<h5>Project 5 - Regression Analysis </h5>
-<h5>Project 6 - Manupilation Big Data </h5>
 <h5>Project 7 - Validation Hypothesis</h5>
 
 
