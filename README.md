@@ -3,6 +3,12 @@
 <h4>I'm a former physicist. Recently I obtained a master degree in physics from University of York</h4>
 <h4>As a physicist as I have many usefull skills. </h4>
 <h4> During digital bootcam "DATA TECHNICIAN" I obtained and refresh . </h4>
+<h3>Projects:</h3>
+<h5>Project 1 - Excel </h5>
+<h5>Project 1 - Excel </h5>
+<h5>Project 1 - Excel </h5>
+<h5>Project 1 - Excel </h5>
+<h5>Project 1 - Excel </h5>
 
 <!--
 **Alek20s/Alek20s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
