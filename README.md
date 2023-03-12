@@ -10,6 +10,12 @@
 <h5>Project 4 - Excel </h5>
 <h5>Project 5 - Excel </h5>
 <h5>Project 6 - Excel </h5>
+<h5>Project 1 - Excel </h5>
+<h5>Project 2 - Excel </h5>
+<h5>Project 3 - Excel </h5>
+<h5>Project 4 - Excel </h5>
+<h5>Project 5 - Excel </h5>
+<h5>Project 6 - Excel </h5>
 
 <!--
 **Alek20s/Alek20s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
