@@ -5,7 +5,7 @@
 <h3> During this digital bootcam I had an unique opportunity to obtain and refresh many skills: <br>Data Structure, MySQL, Tableau, Power BI, Programming Language R, AZURE. </h3>
 
 
-<h3>8 Projects in Data:<br>Project 1 - Excel <br>Project 2 - MySQL<br>Project 3 - R + Power BI<br>Project 4 - Pandas, Python<br>Project 5 - Regression Analysis <br>Project 6 - Big Data<br>Project 7 - Validation of Hypothesis</h3>
+<h3>8 Projects in Data:<br>Project 1 - Excel <br>Project 2 - MySQL<br>Project 3 - R + Power BI<br>Project 4 - Pandas, Python<br>Project 5 - Regression Analysis <br>Project 6 - Big Data<br>Project 7 - Validation of Hypothesis<br>Project 8 - Modelling</h3>
 
 
 
