@@ -2,8 +2,9 @@
 <h4> I'm from a strong academick backgrounds.</h4>
 <h4>I'm a former physicist. Recently I obtained a master degree in physics from University of York</h4>
 <h4>As a physicist as I am extremally good at Math, Statistics, Data Analysis, Coding. </h4>
+<h4>As a professional I have the best qualities: I'm hardworking, enthusiastic, creative, logical approach, patient</h4>
 <h4> During digital bootcam "DATA TECHNICIAN" I had an unique opportunity to obtained and refresh many skills: . </h4>
-<h4> MySQL, Tableau, Power BI, Programming Language R, AZURE </h4>
+<h4>Data Structure, MySQL, Tableau, Power BI, Programming Language R, AZURE </h4>
 <h3> 6 Projects:</h3>
 <h5>Project 1 - Excel </h5>
 <h5>Project 2 - Excel </h5>
