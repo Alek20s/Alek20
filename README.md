@@ -7,19 +7,15 @@
 <h4>I continuesly improve skills and knowledge on my own. I already know 10 programming languages.</h4>
 <h4> During digital bootcam "DATA TECHNICIAN" I had an unique opportunity to obtained and refresh many skills: . </h4>
 <h4>Data Structure, MySQL, Tableau, Power BI, Programming Language R, AZURE </h4>
-<h3> 6 Projects:</h3>
+<h3> 6 Projects in Data:</h3>
 <h5>Project 1 - Excel </h5>
-<h5>Project 2 - Excel </h5>
-<h5>Project 3 - Excel </h5>
-<h5>Project 4 - Excel </h5>
-<h5>Project 5 - Excel </h5>
-<h5>Project 6 - Excel </h5>
-<h5>Project 1 - Excel </h5>
-<h5>Project 2 - Excel </h5>
-<h5>Project 3 - Excel </h5>
-<h5>Project 4 - Excel </h5>
-<h5>Project 5 - Excel </h5>
-<h5>Project 6 - Excel </h5>
+<h5>Project 2 - MySQL </h5>
+<h5>Project 3 - R + Power BI </h5>
+<h5>Project 4 - Pandas, Python </h5>
+<h5>Project 5 - Regression Analysis </h5>
+<h5>Project 6 - Manupilation Big Data </h5>
+<h5>Project 7 - Validation Hypothesis</h5>
+
 
 <!--
 **Alek20s/Alek20s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
