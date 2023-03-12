@@ -1,4 +1,7 @@
-<h1>  I am Alexei</h1> <h2> I'm doing bootcamp.</h2> <h2>I am a former physicist</h2>
+<h3>  I am Alexei</h3> 
+<h4> I'm from a strong academick backgrounds.</h4>
+<h4> I'm a former physicist.</h4>
+<h4> Recently I obtained a master degree in physics from University of York</h4>
 
 <!--
 **Alek20s/Alek20s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
