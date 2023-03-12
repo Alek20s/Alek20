@@ -3,6 +3,8 @@
 <h4>I'm a former physicist. Recently I obtained a master degree in physics from University of York</h4>
 <h4>As a physicist as I am extremally good at Math, Statistics, Data Analysis, Coding. </h4>
 <h4>As a professional I have the best qualities: I'm hardworking, enthusiastic, creative, logical approach, patient</h4>
+<h4>Since university I was doing voluntary job, was working as a Data Scientist/Analyst.</h4>
+<h4>I continuesly improve skills and knowledge on my own. I already know 10 programming languages.</h4>
 <h4> During digital bootcam "DATA TECHNICIAN" I had an unique opportunity to obtained and refresh many skills: . </h4>
 <h4>Data Structure, MySQL, Tableau, Power BI, Programming Language R, AZURE </h4>
 <h3> 6 Projects:</h3>
