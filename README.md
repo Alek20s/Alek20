@@ -7,7 +7,7 @@
 <h4>I continuesly improve skills and knowledge on my own. I already know 10 programming languages.</h4>
 <h4> During digital bootcam "DATA TECHNICIAN" I had an unique opportunity to obtained and refresh many skills: . </h4>
 <h4>Data Structure, MySQL, Tableau, Power BI, Programming Language R, AZURE </h4>
-<h3> 6 Projects in Data:</h3>
+<h3> 7 Projects in Data:</h3>
 <h5>Project 1 - Excel </h5>
 <h5>Project 2 - MySQL </h5>
 <h5>Project 3 - R + Power BI </h5>
