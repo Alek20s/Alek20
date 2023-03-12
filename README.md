@@ -4,7 +4,7 @@
 <h4>As a physicist as I am extremally good at Math, Statistics, Data Analysis, Coding. </h4>
 <h4>As a professional I have the best qualities: I'm hardworking, enthusiastic, creative, logical approach, patient</h4>
 <h3>Since university I was doing voluntary job, was working as a Data Scientist/Analyst.<br>I continuesly improve skills and knowledge on my own. I already know 10 programming languages.</h3>
-<h3> During digital bootcam "DATA TECHNICIAN" I had an unique opportunity to obtained and refresh many skills: <br>Data Structure, MySQL, Tableau, Power BI, Programming Language R, AZURE. </h3>
+<h3> During this digital bootcam I had an unique opportunity to obtained and refresh many skills: <br>Data Structure, MySQL, Tableau, Power BI, Programming Language R, AZURE. </h3>
 
 <h3>8 Projects in Data:</h3>
 <h3>Project 1 - Excel <br>Project 2 - MySQL<br>Project 3 - R + Power BI<br>Project 4 - Pandas, Python<br>Project 5 - Regression Analysis <br>Project 6 - Big Data<br>Project 7 - Validation Hypothesis</h3>
